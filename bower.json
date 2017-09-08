@@ -1,0 +1,27 @@
+{
+  "name": "Imooc",
+  "authors": [
+    "wyr"
+  ],
+  "description": "node jade mongoDB模拟电影网站",
+  "main": "",
+  "keywords": [
+    "node",
+    "jade",
+    "mongoDB"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
